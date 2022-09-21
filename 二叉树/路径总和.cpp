@@ -39,6 +39,7 @@ public:
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//BFS
 class Solution {
 public:
 	bool hasPathSum(TreeNode* root, int targetSum) {
