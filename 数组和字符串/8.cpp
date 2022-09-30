@@ -66,3 +66,4 @@ public:
 		return s.substr(begin, end - begin + 1);
 	}
 };
+
