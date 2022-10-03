@@ -66,3 +66,4 @@ public:
 		return res == inf ? 0 : res;
 	}
 };
+
